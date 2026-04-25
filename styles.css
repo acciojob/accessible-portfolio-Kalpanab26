@@ -1,2 +1,49 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. *//* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+section {
+    margin: 20px;
+    padding: 15px;
+    background: white;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: square;
+}
